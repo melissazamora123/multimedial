@@ -1,6 +1,6 @@
 # multimedial
 #### Exploracion creativa de arte, tecnologia y medios digitales interactivos 
-
+ejercicio 1, semana 1
 
 ```
 <!DOCTYPE html>
