@@ -2,18 +2,36 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Navbar Vertical</title>
+<title>multimedial</title>
 <head>
 
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
-<title>ARTE MELISSA ZAMORA</title>
+<title>MANCHAS</title>
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
 /* Aquí comienza la sección de estilos CSS que define la apariencia visual */
 
 body{
+
+  /* Ruta de tu imagen (asegúrate de que el nombre sea correcto) */
+  background-image: url(img/6mel.jpg);
+
+  /* Esto centra la imagen y evita que se repita como mosaico */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* La imagen se queda quieta al hacer scroll */
+
+  color: rgb(68, 68, 223);
+  margin: 0; /* Cambié 20 por 0 para que la imagen cubra toda la pantalla */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
 /* "body" se refiere a todo el contenido visible de la página */
 
   background-color: pink;
@@ -47,10 +65,12 @@ body{
 /* Fin de las reglas de estilo del body */
      /* Contenedor principal */
         .contenedor {
-            width: 50%;
-            margin: auto;
-            background-color: pink;
-        }
+    width: 50%;
+    margin: auto;
+    background-color: rgba(255, 192, 203, 0.7); /* Rosado con 70% de opacidad */
+    padding: 20px;
+    border-radius: 15px;
+}
 
         /* Sección o bloque */
         .bloque {
@@ -85,10 +105,12 @@ body{
 
 <!-- Contenedor principal -->
     <div class="contenedor">
+        <a href="obras.html">siguiente pagina</a>
+            </a><div>
 
         <!-- BLOQUE 1 -->
         <div class="bloque">
-          <h1>ARTE MELISSA ZAMORA</h1>
+          <h1>MANCHAS</h1>
             <h2></h2>
 
                <a href="obras.html">obras</a>
