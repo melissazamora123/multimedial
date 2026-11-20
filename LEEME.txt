@@ -1,0 +1,23 @@
+BITÁCORA MANCHAS — INSTRUCCIONES RÁPIDAS
+
+1) Mantén juntos index.html, obras.html, multimedia.html, sobre-mi.html y estilos.css.
+2) Abre index.html con Chrome o Edge para revisar el sitio.
+3) Crea una carpeta llamada media (ya está creada) y copia dentro el video del ramo con este nombre exacto:
+   reino-gatuno.mp4
+   La página multimedia.html ya está preparada para reproducirlo.
+4) En la carpeta img reemplaza/agrega tus fotografías con estos nombres exactos:
+   obra-esfuerzo.jpg
+   obra-ecos.jpg
+   obra-destruccion.jpg
+   Puedes usar .png si cambias también el nombre en obras.html.
+5) La imagen reino-gatuno-preview.jpg es una miniatura extraída del video y ya está incluida.
+6) Para los trabajos de TouchDesigner, abre cada archivo .toe, toma una captura del resultado y guárdala en img. Luego podemos añadirlas a la página.
+
+PÁGINAS:
+- index.html: portada
+- obras.html: pinturas y trabajos
+- multimedia.html: video Reino gatuno y proyectos TouchDesigner
+- sobre-mi.html: presentación de la bitácora
+- estilos.css: diseño general del sitio
+
+Nota: las fotografías de las tres pinturas aún deben ser copiadas por ti a la carpeta img, porque no venían adjuntas en esta conversación.
