@@ -1,5 +1,19 @@
 # multimedial
 #### Exploracion creativa de arte, tecnologia y medios digitales interactivos 
+
+## Unidad I.  [Hipervícunlo](#unidad-i--hipervicunlo-) <br> 
+1. [Mi Primera página.](#mi-primera-página) <br> 
+2. [Enlaces -  Links](#2-enlaces-links) <br> 
+3. [Mini sitio / 3 páginas conectadas](#3-mini-sitio-3-páginas-conectadas) <br> 
+4. [css-intermedio-interacción-y-layout](#4-css-intermedio-interacción-y-layout) <br>
+5. [Mi sitio web experimental/portafolio](https://mauricixx.github.io/multimedial/w/index.html)
+
+## Unidad II. [Programación visual creativa basada en nodos](#programación-visual-creativa-basada-en-nodos) <br>
+1. [Intro ToucDesigner](#1-intro-a-touchdesigner) <br>
+2. [Ejercicios:](#2-canasta-de-ejercicios) <br>
+##### Nube de puntos con Pop basada en imágenes, Lsystem, Mapping básico 
+
+
 ejercicio 1, semana 1
 
 ```
