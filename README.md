@@ -1,7 +1,7 @@
 # multimedial
 #### Exploracion creativa de arte, tecnologia y medios digitales interactivos 
 
-## Unidad I.  [Hipervícunlo](#unidad-i--hipervicunlo-) <br> 
+## Unidad I.   <br> 
 
  [Mi sitio web portafolio](https://melissazamora123.github.io/multimedial/w/index.html)
 
